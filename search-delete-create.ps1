@@ -1,4 +1,10 @@
-﻿
+# Script ayant pour vocation a trouver un utilisateur O365 (anciennement lié a l'active Directory via Azure AD Connect)
+# sur la base de son adresse e-mail (UPN), à recuperer ses données, à le supprimer, puis le recreer en compte Azure uniquement.
+
+#Attention ce script supprime l'utilisateur et evenetuellement les service qui lui était préalablement définis
+
+
+
 #CmdLet a installer
 Install-Module MSOnline
 
