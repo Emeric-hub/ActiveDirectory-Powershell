@@ -1,0 +1,2 @@
+DisplayName;UserPrincipalName;ProxyAddresses
+Nom complet d'utilisateur;UPN@ndd.fr;"SMTP:mailprincipal@ndd.fr;smtp:alias1@ndd.fr;smtp:alias2@ndd2.fr"
